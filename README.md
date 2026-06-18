@@ -1,3 +1,5 @@
+<img width="2048" height="2048" alt="Gemini_Generated_Image_8aliu38aliu38ali" src="https://github.com/user-attachments/assets/151c7341-3630-4fc7-9545-8a0989833d91" />
+
 # Hi there! I'm Matías Reyes 👋👨‍💻
 
 Welcome to my development space! I am a **Computer Science Engineer** focused on building highly scalable, clean, and efficient software. When I'm not optimizing code or deploying portable architectures, you can find me on the court playing professional basketball. 🏀⚡
